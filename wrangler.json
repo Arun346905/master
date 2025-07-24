@@ -1,0 +1,6 @@
+{
+  "name": "cosmic-builder-dry-run",
+  "main": "./dist/_worker.js",
+  "compatibility_date": "2025-07-24",
+  "compatibility_flags": ["nodejs_compat"]
+}
